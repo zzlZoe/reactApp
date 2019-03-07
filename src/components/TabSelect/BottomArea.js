@@ -18,6 +18,9 @@ export default class BottomArea extends Component {
             })
         })
     }
+    shouldComponentUpdate(){
+        return true
+    }
     render () {
         return (
             <div className="BottomArea">
