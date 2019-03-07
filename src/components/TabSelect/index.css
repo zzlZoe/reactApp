@@ -1,0 +1,6 @@
+.content-box {
+    width: 1000px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
